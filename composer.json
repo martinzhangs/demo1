@@ -1,0 +1,14 @@
+{
+    "name": "zphps/demo1",
+    "description": "一些常用小功能",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "martinzhang",
+            "email": "zzx0426@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
